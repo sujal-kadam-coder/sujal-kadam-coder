@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Sujal Kadam
 
-<!--
-**sujal-kadam-coder/sujal-kadam-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student in Computer Engineering
 
-Here are some ideas to get you started:
+💻 Passionate about AI, Python and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building:
+- 🌐 Full Stack Web Projects
+- 📱 AI Powered Applications
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+- GitHub
+- SQL
+- Supabase
+
+## Currently Learning
+
+- React
+- Flask
+- AI Development
+- UI/UX
+
+## Goals
+
+- Become an AI Engineer
+- Contribute to Open Source
+- Build useful AI products
+
+📫 Reach me:
+Email: sujalsk202@gmail.com
